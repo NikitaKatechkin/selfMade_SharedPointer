@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1632195574 source:c:\projects\cpp\internship\sortingalgorithms\main.cpp
+	"Searchings.h"
+
+1632160890 source:c:\projects\cpp\internship\sortingalgorithms\servicetools.cpp
+	"ServiceTools.h"
+
+1632160835 c:\projects\cpp\internship\sortingalgorithms\servicetools.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1632169005 c:\projects\cpp\internship\sortingalgorithms\sortings.h
+	"ServiceTools.h"
+
+1632169400 source:c:\projects\cpp\internship\sortingalgorithms\sortings.cpp
+	"Sortings.h"
+
+1632195473 source:c:\projects\cpp\internship\sortingalgorithms\searchings.cpp
+	"Searchings.h"
+
+1632195110 c:\projects\cpp\internship\sortingalgorithms\searchings.h
+	"Sortings.h"
+
